@@ -1,4 +1,4 @@
-<div align="center">
+个人配置<div align="center">
 
 # 📈 股票智能分析系统
 
